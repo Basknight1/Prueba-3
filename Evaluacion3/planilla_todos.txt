@@ -1,0 +1,15 @@
+Titulo: el bosson de higgs no te va hacer la cama
+Autor: javier santaolalla
+G�nero: ciencia
+Precio: 14990
+
+Titulo: interestelar 
+Autor: gary ponsio
+G�nero: ficcion
+Precio: 25000
+
+Titulo: carne cogote
+Autor: hernan 
+G�nero: no ficcion
+Precio: 99
+
